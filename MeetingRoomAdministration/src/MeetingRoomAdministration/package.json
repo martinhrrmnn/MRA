@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "MeetingRoomAdministration",
+  "private": true,
+  "dependencies": {
+    "rxjs": "5.0.0-beta.2",
+    "angular2": "2.0.0-beta.13",
+    "systemjs": "0.19.9",
+    "traceur": "0.0.104",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "zone.js": "0.5.15"
+  },
+  "devDependencies": {
+    "typescript": "1.8.9",
+    "gulp": "3.9.1",
+    "gulp-typescript": "2.12.1",
+    "gulp-watch": "4.3.5",
+    "del": "2.1.0"
+  }
+}
