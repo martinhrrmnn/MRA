@@ -21,4 +21,4 @@ var AppComponent = (function () {
     return AppComponent;
 })();
 exports.AppComponent = AppComponent;
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=app.component.js.map

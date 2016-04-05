@@ -18,5 +18,15 @@
     "gulp-typescript": "2.12.1",
     "gulp-watch": "4.3.5",
     "del": "2.1.0"
-  }
+  },
+   "scripts": {
+      "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
+      "tsc": "tsc",
+      "tsc:w": "tsc -w",
+      "lite": "lite-server",
+      "typings": "typings",
+      "postinstall": "typings install"
+    }
+  
 }
+
